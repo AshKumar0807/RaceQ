@@ -1,0 +1,5 @@
+
+driverId,driverRef,number,code,forename,surname,dob,nationality
+1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British
+2,verstappen,1,VER,Max,Verstappen,1997-09-30,Dutch
+3,leclerc,16,LEC,Charles,Leclerc,1997-10-16,Monegasque
