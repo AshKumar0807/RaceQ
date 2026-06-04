@@ -1,11 +1,12 @@
 
-# PitWall AI Phase 1
+# RaceQ Phase 1
 
 Run:
 
 streamlit run dashboard/Home.py
 
 Pages:
+
 - Home
 - Driver Analytics
 - Team Analytics
